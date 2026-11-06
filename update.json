@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "notes": "단일 EXE 및 자동 업데이트 기능 추가",
-  "url": "https://github.com/suei158/stellive-alert-releases/releases/download/v1.0.0/StelliveAlert.exe",
-  "sha256": "618f55dc6a8b38ecdfe23970241dddc9dd4ced65fd3ea2a97f010fd704c3471f",
-  "size": 112872624
+  "version": "1.0.1",
+  "notes": "하단 업데이트 / 공지 버튼을 제거하고 상단에 공지 버튼을 추가했습니다. 공지 버튼에서 최신 변경 내용과 새 버전을 확인할 수 있습니다.",
+  "url": "https://github.com/suei158/stellive-alert-releases/releases/download/v1.0.1/StelliveAlert.exe",
+  "sha256": "a8ef18867321d87bb1645e488c934d2ae0b037dcdd0791518a27c01e96c3668e",
+  "size": 112872702
 }
